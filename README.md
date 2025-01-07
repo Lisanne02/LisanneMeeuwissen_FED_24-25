@@ -87,11 +87,13 @@ surface plane
   <summary>uitwerken voor 1<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  Ik liep helaas erg vast op het begrijpen hoe mijn website in elkaar zat en wat de 1e elementen waren/ hoe ik deze toe moest voegen. Ik had wel al de breakdown schets gemaakt en was begonnen aan de 1e code. Ik had nooit eerder een video toe gevoegd aan een website dus hier liep ik erg vast. Verder heb ik samen met Sybren gekeken naar de structuur van de website, of mijn breakdown schets correct was en heb ik vragen kunnen stellen over hoe de html nu ookalweer in elkaar zat. Hierna heb ik zelfstandig de complete HTML kunnen maken.
 
 
   ### Agenda voor meeting
   samen met je groepje opstellen
+
+  N.V.T.
 
   | student 1      | student 2          | student 3    | student 4        |
   | ---            | ---                | ---          | ---              |
@@ -103,10 +105,7 @@ surface plane
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+  - Maak de HTML (bespreek dit tijdens les dinsdag)
 
 </details>
 
@@ -120,11 +119,14 @@ surface plane
   <summary>uitwerken voor 2<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Ik ben klaar met de html en begonnen aan de CSS. Ik heb nog niet veel gepositioneerd maar ben begonnen met kleuren en kaders maken per sectie. 
+Tijdens het gesprek gaf ik aan dat ik vast liep met de navigatie. Hierdoor heeft Sybren mij geholpen door samen de navigatie te maken. Hierna heb ik nog een aantal vragen kunnen stellen over hoe ik bepaalde elemeneten binnen mijn website het beste kon namaken.
 
 
   ### Agenda voor meeting
   samen met je groepje opstellen
+
+  N.V.T.
 
   | student 1      | student 2          | student 3    | student 4        |
   | ---            | ---                | ---          | ---              |
@@ -136,10 +138,7 @@ surface plane
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-- ...
+  - Ga verder met de CSS
 
 </details>
 
