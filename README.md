@@ -39,12 +39,12 @@ surface plane
   https://gamestate.com/
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  hier de naam van de pagina  
-  <img src="readme-images/FED_GAMESTATE_PAGE1.png" width="375px" alt="Home page">
+  GameState Home pagina  
+  <img src="ReadMeImages/GamestateHome.png" width="375px" alt="Home page">
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  hier de naam van de pagina  
-  <img src="readme-images/FED_GAMESTATE_PAGE2.png" width="375px" alt="Card kopen">
+  GameState Store pagina
+  <img src="ReadMeImages/Gamestatestore.png" width="375px" alt="Card kopen">
  
 </details>
 
@@ -53,9 +53,17 @@ surface plane
 
 <details>
   <summary>uitwerken na test in 2<sup>e</sup> werkgroep</summary>
+Tijdens de les heeft Laura voor mij naar mijn website gekeken en via de WCAG checklist deze na gekeken. 
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
+  Hier uit is gekomen dat de website van Gamestate over het algemeen erg toegankelijk is wel zijn er een aantal punten waar rekening mee gehouden moet worden.
+  - Validate HTML gaf veel errors - CSS errors en class errors en het mist alts.
+  - Wanneer je door de website heen gaan met tab word content over geslagen.
+  - Horizontaal scrollen is niet mogelijk.
+  - Media kan niet op pauze worden gezet.
+  - Animaties zijn niet subtiel (in ieder geval de gifjes/ videos).
+  
 
 </details>
 
@@ -67,13 +75,14 @@ surface plane
   <summary>uitwerken na afloop 3<sup>e</sup> werkgroep</summary>
 
   ### de hele pagina: 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
+  <img src="ReadMeImages/BreakdownSchets1.png" width="375px" alt="breakdown schets deel 1/6">
+  <img src="ReadMeImages/BreakdownSchets2.png" width="375px" alt="breakdown schets deel 2/6">
+  <img src="ReadMeImages/BreakdownSchets3.png" width="375px" alt="breakdown schets deel 3/6">
+  <img src="ReadMeImages/BreakdownSchets4.png" width="375px" alt="breakdown schets deel 4/6">
+  <img src="ReadMeImages/BreakdownSchets5.png" width="375px" alt="breakdown schets deel 5/6">
+  <img src="ReadMeImages/BreakdownSchets6.png" width="375px" alt="breakdown schets deel 6/6">
 
-  ### dynamisch deel (bijv menu): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
 
-  ### wellicht nog een dynamisch deel (bijv filter): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
 
 </details>
 
