@@ -236,7 +236,7 @@ Tijdens het gesprek gaf ik aan dat ik vast liep met de navigatie. Hierdoor heeft
   Nb. ChatGpT en andere AI horen er ook bij.
   Nb. Vermeld de bronnen ook in je code.
 
-  1. bron 1
+  1. ::before en ::after element (hoe werkt het?)  https://www.youtube.com/watch?v=dIUOWdwwZBw
   2. bron 2
   3. ...
 
