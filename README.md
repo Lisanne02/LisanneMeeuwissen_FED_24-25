@@ -238,6 +238,6 @@ Tijdens het gesprek gaf ik aan dat ik vast liep met de navigatie. Hierdoor heeft
 
   1. ::before en ::after element (hoe werkt het?)  https://www.youtube.com/watch?v=dIUOWdwwZBw
   2. bron 2
-  3. ...
+  3. pijltjes voor knoppen sectie 7 en dropdown menu's https://www.w3schools.com/charsets/ref_utf_arrows.asp
 
 </details>
